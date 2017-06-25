@@ -1,0 +1,58 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+  width: 200px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+  width: 400px;
+  position: relative;
+  top: 400px;
+  left: 450px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  width: 200px;
+}
+
+img {
+	margin-left: 500px;
+}
+
+#right{
+	display: inline-block;
+	position: absolute;
+	left: 700px;
+	right: 40%;
+	top: 210px;
+
+}
+
+#left{
+	float: left;
+	position: absolute;
+	left: 300px;
+
+
+}
+
+textarea {
+  width: 390px;
+  height: 150px;
+}
+
+#btn-2{
+	margin-left: 160px;
+}
+
+
+
